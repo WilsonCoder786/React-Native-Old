@@ -78,3 +78,5 @@ To learn more about React Native, take a look at the following resources:
 - [Blog](https://reactnative.dev/blog) - read the latest official React Native **Blog** posts.
 - [`@facebook/react-native`](https://github.com/facebook/react-native) - the Open Source; GitHub **repository** for React Native.
 https://www.figma.com/design/BIWOA1GFzcWacpQ6TOQJrL/Good-news-admin-panel?node-id=0-1&t=cNrrAX3PsBe7w8lW-0
+
+https://we.tl/t-MAICYzkt39
